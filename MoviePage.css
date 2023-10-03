@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-heading {
+    font-family: "Roboto Times New Roman";
+    font-weight: 500;
+    padding-top: 17px;
+}
+
+.main-heading-2 {
+    font-family: "Roboto";
+    font-weight: 500;
+    color: white;
+}
+
+.main-background {
+    background-image: linear-gradient(to right, #2193b0, #6dd5ed);
+    /*     height: 100vh; */
+    background-size: cover;
+}
+
+.background-icon {
+    background-color: white;
+    background-size: cover;
+    border-radius: 20px;
+    /* height: 100vh; */
+    /* margin: 10px; */
+}
+
+.icon-image {
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.icon-para {
+    font-size: 100%;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-top: 3px;
+}
+
+.movie-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 24px;
+}
+
+.movie-bg-container1 {
+    background-image: linear-gradient(to right, #4d96fb, #53aff4);
+    background-size: cover;
+    padding: 24px;
+}
+
+.movie-bg-container2 {
+    background-image: linear-gradient(to right, #20BF55, #01BAEF);
+    background-size: cover;
+    padding: 24px;
+}
+
+.movie-bg-container3 {
+    background-image: linear-gradient(to right, #d87e79, #a94c40);
+    background-size: cover;
+    padding: 24px;
+}
+
+.movie-heading-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.movie-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.music-button {
+    color: #ff8348;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 98px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.movie-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.similar-movie-image {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.button {
+    color: white;
+    background-color: #4c63b6;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.similar-movie-image1 {
+    width: 96px;
+    height: 140px;
+    border-radius: 8px;
+}
